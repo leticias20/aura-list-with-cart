@@ -1,0 +1,24 @@
+[
+    {
+       "image": {
+            "thumbnail": "./assets/images/anillo_oro.jpg",
+            "mobile": "./assets/images/anillo_oro.jpg",
+            "tablet": "./assets/images/anillo_oro.jpg",
+            "desktop": "./assets/images/anillo_oro.jpg"
+       },
+       "name": "Anillo Oro",
+       "category": "Anillos",
+       "price": 300.00
+    },
+    {
+        "image": {
+            "thumbnail": "./assets/images/anillo_oro.jpg",
+            "mobile": "./assets/images/anillo_oro.jpg",
+            "tablet": "./assets/images/anillo_oro.jpg",
+            "desktop": "./assets/images/anillo_oro.jpg"
+        },
+        "name": "Aretes Grandes",
+        "category": "Aretes",
+        "price": 350.00
+     }
+]
